@@ -1,7 +1,7 @@
 # GameOfLife
 Conway's Game of Life in Unity
 
-This project contains three scripts:
+This project contains three scripts in GameOfLife/Assets/Scripts/:
 
 1) GridController.cs
 
