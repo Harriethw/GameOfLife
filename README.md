@@ -15,6 +15,11 @@ Controls each cell's activity depending on rules of game
 
 Updates cells on click, and restarts game when restart button clicked
 
+# To Open in Unity
+
+Download repository, open folder in Unity. 
+Open Scene 1, press play.
+
 # Game of Life Instructions
 
 The Game of Life is set in an infinite two-dimensional grid inhabited by “cells”.
